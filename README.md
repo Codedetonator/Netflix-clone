@@ -1,11 +1,3 @@
-👋 Hi, I’m Bijith
-👀 I’m interested in coding
-🌱 I’m currently learning react and javascript
-📫 How to reach me you can contact me by email bijithpn@gmail.com
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
