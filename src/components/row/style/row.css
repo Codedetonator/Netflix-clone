@@ -1,0 +1,18 @@
+.row_posters{
+    overflow-y: hidden;
+    overflow-x: scroll;
+    display: flex;
+    padding: 10px;
+}
+
+.row_poster{
+    object-fit: contain;
+    width: 150px;
+    max-height: 100%;
+    margin-right: 10px;
+    transition:transform 350ms;
+}
+
+.row_poster:hover{
+    transform: scale(1.08);
+}
